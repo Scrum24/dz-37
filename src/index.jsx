@@ -10,7 +10,7 @@ import {usersInitialList, albumsList, photosList} from "./components/loader";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/dz-37/",
     element: <RootUsers />,
     errorElement: <Error />,
     loader: usersInitialList,
