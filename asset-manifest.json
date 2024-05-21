@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz-37/static/css/main.d03a4dd4.css",
+    "main.js": "/dz-37/static/js/main.1c1ecf85.js",
+    "index.html": "/dz-37/index.html",
+    "main.d03a4dd4.css.map": "/dz-37/static/css/main.d03a4dd4.css.map",
+    "main.1c1ecf85.js.map": "/dz-37/static/js/main.1c1ecf85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03a4dd4.css",
+    "static/js/main.1c1ecf85.js"
+  ]
+}
