@@ -6,7 +6,7 @@ export const RootUsers = () => {
 
   return (
     <>
-      <Link to={"/"}>Home</Link>
+      <Link to={"/dz-37/"}>Home</Link>
       <br />
 
       <h1>User list</h1>
